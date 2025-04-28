@@ -29,12 +29,11 @@ print("The sum of the series = ",m)
 
 ```
 ### OUTPUT
-```
+
 ![Screenshot 2025-04-28 141820](https://github.com/user-attachments/assets/828536e2-8314-49fb-a0f1-d3762d581b06)
 
-```
+
 ### RESULT
-```
+
 The program successfully calculates and displays the sum of the series.
-```
 
